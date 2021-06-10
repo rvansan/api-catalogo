@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace APICatalogo.Controllers
+namespace APICatalogo.Models
 {
     public class Categoria
     {
